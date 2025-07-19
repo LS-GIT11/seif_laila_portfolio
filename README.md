@@ -1,24 +1,22 @@
 # Portfolio Website - Final Project
 Creating a portfolio website for graphic and brand design. Prep for the future and start work as soon as possible
 
-## Installation
-TODO: Describe the installation process
+## Live Site
+Feel free to visit website live: (LINK)
 
-## Usage
-TODO: Write usage instructions
-
-## Contributing
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request
+## Languages & Tools
+* HTML, CSS, JavaScript
+* Figma, Visual Studio Code, Adobe Suite
 
 ## History
-TODO: Write history
+Started July 2025
+Wireframes & Design Completed:
+Programing Completed:
+Website Finalized and Published: 
 
 ## Credits
-TODO: Write credits
+Designed & developed by Laila Seif
+Assets from the following: 
 
 ## License
 MIT License 
